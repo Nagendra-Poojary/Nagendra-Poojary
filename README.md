@@ -67,15 +67,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagendra-Poojary&theme=tokyonight)
 
 
-### 📊 GitHub Stats
-
-![Nagendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagendra-Poojary&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendra-Poojary&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nagendra-Poojary&theme=tokyonight)](https://git.io/streak-stats)
-
-
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/nagendra-poojary-976a082b1  
 - **Email:** nagendrapoojary08@gmail.com
