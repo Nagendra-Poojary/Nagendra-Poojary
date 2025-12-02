@@ -39,9 +39,9 @@
 
 ![Nagendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagendra-Poojary&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendra-Poojary&layout=compact&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendra-Poojary&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nagendra-Poojary&theme=tokyonight)](https://git.io/streak-stats)
+(https://github-readme-streak-stats.herokuapp.com?user=Nagendra-Poojary&theme=tokyonight)](https://git.io/streak-stats)
 
 
 #### 💻 Programming Languages
