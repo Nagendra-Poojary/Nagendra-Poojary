@@ -72,6 +72,9 @@
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Nagendra-Poojary&color=blue)
 
+### 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=onedark)
+
 
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/nagendra-poojary-976a082b1  
