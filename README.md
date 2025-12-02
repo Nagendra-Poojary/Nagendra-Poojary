@@ -1,5 +1,5 @@
-                   Hi, I'm Nagendra 👋
-                   CSE Student | Aspiring Software Developer
+                                                Hi, I'm Nagendra 👋
+                                                CSE Student | Aspiring Software Developer
 
 ---
 
