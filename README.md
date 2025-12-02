@@ -76,13 +76,6 @@
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
-![3D GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagendra-Poojary&show_icons=true&theme=react&card_width=500)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nagendra-Poojary&theme=tokyonight-duo&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendra-Poojary&layout=compact&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=matrix&no-bg=true&no-frame=true)
 
 ![3D Contribution Chart](https://ghchart.rshah.org/0099ff/Nagendra-Poojary)
 
