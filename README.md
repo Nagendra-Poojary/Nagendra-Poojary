@@ -69,6 +69,8 @@
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Nagendra-Poojary&color=blue)
 
 
 ### 📫 Connect With Me
