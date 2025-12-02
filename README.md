@@ -75,13 +75,7 @@
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-
-
-![3D Contribution Chart](https://ghchart.rshah.org/0099ff/Nagendra-Poojary)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagendra-Poojary&theme=react-dark&hide_border=true)
-
-![Last 30 Days](https://github-readme-stats.vercel.app/api?username=Nagendra-Poojary&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
 
 
 
