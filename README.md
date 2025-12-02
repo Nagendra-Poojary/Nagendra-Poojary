@@ -69,8 +69,6 @@
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-![Computer Dev](https://raw.githubusercontent.com/Nagendra-Poojary/Nagendra-Poojary/main/assets/computer-boy-realistic.svg)
-
 
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/nagendra-poojary-976a082b1  
