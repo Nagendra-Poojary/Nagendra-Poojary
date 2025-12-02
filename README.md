@@ -69,7 +69,12 @@
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-"D:\CHROME DOWNLOADS\assets.txt"
+### 🤖 Computer-Headed Dev Roaming the City
+
+![Computer headed dev](https://raw.githubusercontent.com/Nagendra-Poojary/Nagendra-Poojary/main/assets/computer-dev-walk.svg)
+
+[⬇️ Download this animation](https://raw.githubusercontent.com/Nagendra-Poojary/Nagendra-Poojary/main/assets/computer-dev-walk.svg)
+
 
 
 ### 📫 Connect With Me
