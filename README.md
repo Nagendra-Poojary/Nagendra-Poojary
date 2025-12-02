@@ -44,15 +44,7 @@
 
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/nagendra-poojary-976a082b1  
-- **Email:** nagendrapoojary08@gmail.com 
-
----
-
-### ⭐ GitHub Stats
-
-![Nagendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagendra-poojary&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagendra-poojary&layout=compact&theme=radical)
+- **Email:** nagendrapoojary08@gmail.com
 
 ---
 
