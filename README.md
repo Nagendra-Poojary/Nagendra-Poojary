@@ -66,6 +66,10 @@
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagendra-Poojary&theme=tokyonight)
 
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
 
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/nagendra-poojary-976a082b1  
