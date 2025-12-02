@@ -36,9 +36,15 @@
 - Beginner to intermediate web development projects  
 - DSA practice solutions  
 - Python mini-projects  
-- MySQL + Java programs  
+- MySQL + Java programs
+ 
+---
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Nagendra-Poojary&color=blue)
 
 ---
+
 ### 🏅 Tech Stack & Tools
 
 <!-- Programming Languages -->
@@ -69,11 +75,8 @@
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Nagendra-Poojary&color=blue)
 
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=onedark)
+
 
 
 ### 📫 Connect With Me
