@@ -63,6 +63,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagendra-Poojary&theme=tokyonight)
+
+
 ### 📊 GitHub Stats
 
 ![Nagendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagendra-Poojary&show_icons=true&theme=tokyonight)
