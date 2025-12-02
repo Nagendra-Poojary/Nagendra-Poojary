@@ -1,5 +1,5 @@
-                   Hi, I'm Nagendra 👋</h1>
-                   CSE Student | Aspiring Software Developer</h3>
+                   Hi, I'm Nagendra 👋
+                   CSE Student | Aspiring Software Developer
 
 ---
 
