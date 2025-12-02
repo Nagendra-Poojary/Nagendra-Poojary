@@ -11,6 +11,34 @@
 
 ---
 
+#### 💻 Programming Languages
+- Java  
+- Python  
+- C  
+
+#### 🌐 Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
+
+#### 🗄️ Database
+- MySQL  
+
+#### 🛠 Tools
+- VS Code  
+- IntelliJ IDEA  
+- Git & GitHub  
+
+---
+
+### 📌 What You’ll Find in My GitHub
+- Java projects  
+- Beginner to intermediate web development projects  
+- DSA practice solutions  
+- Python mini-projects  
+- MySQL + Java programs  
+
+---
 ### 🏅 Tech Stack & Tools
 
 <!-- Programming Languages -->
@@ -43,34 +71,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nagendra-Poojary&theme=tokyonight)](https://git.io/streak-stats)
 
-#### 💻 Programming Languages
-- Java  
-- Python  
-- C  
-
-#### 🌐 Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
-
-#### 🗄️ Database
-- MySQL  
-
-#### 🛠 Tools
-- VS Code  
-- IntelliJ IDEA  
-- Git & GitHub  
-
----
-
-### 📌 What You’ll Find in My GitHub
-- Java projects  
-- Beginner to intermediate web development projects  
-- DSA practice solutions  
-- Python mini-projects  
-- MySQL + Java programs  
-
----
 
 ### 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/nagendra-poojary-976a082b1  
