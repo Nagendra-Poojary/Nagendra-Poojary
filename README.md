@@ -69,9 +69,7 @@
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-### 💻 Computer-Headed Dev Walking By
 
-![Computer headed boy roaming](https://raw.githubusercontent.com/Nagendra-Poojary/Nagendra-Poojary/main/assets/computer-boy.svg)
 
 
 
