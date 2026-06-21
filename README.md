@@ -68,9 +68,9 @@ Hi, I'm Nagendra 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🏅 GitHub Achievement Card
+## 🏆 GitHub Trophies
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagendra-Poojary&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=algolia&no-frame=true&margin-w=15)
 
 ## 🏆 Developer Profile
 
