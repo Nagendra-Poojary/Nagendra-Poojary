@@ -69,7 +69,7 @@ Hi, I'm Nagendra 👋
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=algolia&no-frame=true&no-bg=true&margin-w=15
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagendra-Poojary&theme=tokyonight)
