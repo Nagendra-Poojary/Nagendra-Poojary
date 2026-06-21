@@ -67,9 +67,9 @@ Hi, I'm Nagendra 👋
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=algolia&no-frame=true&no-bg=true&margin-w=15
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=algolia&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nagendra-Poojary&theme=tokyonight)
