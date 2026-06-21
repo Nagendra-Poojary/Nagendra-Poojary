@@ -68,10 +68,6 @@ Hi, I'm Nagendra 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary)
-
 ## 🏆 Developer Profile
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagendra-Poojary&theme=tokyonight)
@@ -91,10 +87,6 @@ Hi, I'm Nagendra 👋
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagendra-Poojary&theme=react-dark&hide_border=true)
-
-
-
-
 
 
 
