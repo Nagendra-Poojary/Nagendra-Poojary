@@ -68,6 +68,12 @@ Hi, I'm Nagendra 👋
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🏆 Achievements
+
+![GitHub followers](https://img.shields.io/github/followers/Nagendra-Poojary?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Nagendra-Poojary?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Nagendra-Poojary&style=for-the-badge)
+
 ## 🏆 Developer Profile
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagendra-Poojary&theme=tokyonight)
