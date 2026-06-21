@@ -70,7 +70,7 @@ Hi, I'm Nagendra 👋
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary&theme=algolia&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Nagendra-Poojary)
 
 ## 🏆 Developer Profile
 
