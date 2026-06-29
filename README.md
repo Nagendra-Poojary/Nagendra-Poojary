@@ -35,7 +35,6 @@ Hi, I'm Nagendra 👋
 ### 📌 What You’ll Find in My GitHub
 - Java projects  
 - Beginner to intermediate web development projects  
-- DSA practice solutions  
 - Python mini-projects  
 - MySQL + Java programs
  
