@@ -6,17 +6,16 @@ Hi, I'm Nagendra 👋
  ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Engineering student  
-- 🌱 Currently learning **Java, DSA, Python, and Web Development**  
-- 💻 Interested in building **real-world applications**  
-- 🚀 Goal: Become a **professional software engineer**
+- 🎓 Computer Science Engineering  
+- 🌱 Currently learning **SQL, CLOUD , Python**  
+- 💻 Interested in Manageing ****Big DAta And Pipelines****  
+- 🚀 Goal: Become a **professional Data engineer**
 
 ---
 
 #### 💻 Programming Languages
-- Java  
-- Python  
-- C  
+- SQL 
+- Python    
 
 #### 🌐 Web Technologies
 - HTML  
