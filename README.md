@@ -2,7 +2,7 @@
 
 Hi, I'm Nagendra 👋
  
- CSE Student | Aspiring Software Developer
+ CSE Student | Aspiring Data Engineer
  ---
 
 ### 👨‍💻 About Me
